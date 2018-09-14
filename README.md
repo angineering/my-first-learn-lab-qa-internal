@@ -10,7 +10,6 @@ _lab_ (yep, this is a lab!), we will be introducing those steps.
 
 1. Introduce the concepts of Test Driven Development
 2. Pass the tests to confirm you are ready for future lessons
-
 ## Labs Are Lessons _with Tests_
 
 On Learn, labs are lessons with tests. The difficulty level of labs will vary,
